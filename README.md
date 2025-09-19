@@ -1,4 +1,4 @@
-# ASM Text Editor (Two-Stage Bootloader)
+# BIOS Text Editor (Two-Stage Bootloader)
 
 A minimal **two-stage boot sector program** written in **x86 assembly** that implements a bare-metal text editor.  
 The editor supports typing, saving, and loading text directly from **video memory** — running entirely without an operating system.
